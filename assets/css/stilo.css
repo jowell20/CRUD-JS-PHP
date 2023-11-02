@@ -1,0 +1,12 @@
+#tablausuarios
+{
+    min-width:50px;
+    border-width: 2px;
+    border-radius: 2px;
+    border-color: rgb(23, 19, 236);
+}
+
+.center-alert {
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+  }
